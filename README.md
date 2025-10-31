@@ -47,13 +47,13 @@ Created by [@soundaryaarunkumar3-crypto](https://github.com/soundaryaarunkumar3-
 1. Open **phpMyAdmin** (http://localhost/phpmyadmin).  
 2. Create a new database:
    ```sql
-   CREATE DATABASE house_services_db;
+   CREATE DATABASE house-services-db;
    ```
 3. Import the following SQL schema:
 
 ```sql
-CREATE DATABASE IF NOT EXISTS house_services_db;
-USE house_services_db;
+CREATE DATABASE IF NOT EXISTS house-services-db;
+USE house-services-db;
 
 CREATE TABLE users (
   id INT AUTO_INCREMENT PRIMARY KEY,
@@ -104,7 +104,7 @@ CREATE TABLE feedback (
    $servername = "localhost";
    $username = "root";
    $password = "";
-   $dbname = "house_services_db";
+   $dbname = "house-services-db";
    ```
 
 5. Run the app:  
