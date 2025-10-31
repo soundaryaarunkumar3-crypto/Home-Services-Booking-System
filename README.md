@@ -111,6 +111,10 @@ CREATE TABLE feedback (
    Open in browser → [http://localhost/Home-Services-Booking-System/](http://localhost/Home-Services-Booking-System/
 
 ---
+## 🧩 ER Diagram
+![ER Diagram](er_diagram.png)
+
+---
 
 ## 📦 Folder Structure
 ```
