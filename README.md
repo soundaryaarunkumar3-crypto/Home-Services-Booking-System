@@ -108,12 +108,7 @@ CREATE TABLE feedback (
    ```
 
 5. Run the app:  
-   Open in browser → [http://localhost/Home-Services-Booking-System/](http://localhost/Home-Services-Booking-System/)
-
----
-
-## 🧩 ER Diagram
-![ER Diagram](er_diagram.png)
+   Open in browser → [http://localhost/Home-Services-Booking-System/](http://localhost/Home-Services-Booking-System/
 
 ---
 
