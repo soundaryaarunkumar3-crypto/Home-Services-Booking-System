@@ -144,5 +144,5 @@ Home-Services-Booking-System/
 
 ## 👨‍💻 Author
 **Soundarya Arun Kumar**  
-Student Project — for learning PHP & MySQL  
+Finalyear  Project — for learning PHP & MySQL  
 GitHub: [@soundaryaarunkumar3-crypto](https://github.com/soundaryaarunkumar3-crypto)
